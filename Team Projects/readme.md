@@ -1,0 +1,3 @@
+All solo projects
+
+cropix
