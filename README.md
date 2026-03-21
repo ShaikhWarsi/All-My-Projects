@@ -1,103 +1,91 @@
-# All-My-Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
+  # 🚀 Portfolio Hub: AI, Security & Full-Stack
+  
+  ### *Building the Future with Code & Innovation*
+  
+  [![GitHub followers](https://img.shields.io/github/followers/ShaikhWarsi?style=social)](https://github.com/ShaikhWarsi)
+  [![GitHub stars](https://img.shields.io/github/stars/ShaikhWarsi/All-My-Projects?style=social)](https://github.com/ShaikhWarsi/All-My-Projects)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shaikh-warsi)
+  
+  <p align="center">
+    <b>CS + AI/ML @ VIT Bhopal</b> • <b>Hackathon Enthusiast</b> • <b>Open Source Contributor</b>
+  </p>
 
-Welcome to my personal project hub — a curated collection of AI, ML, cybersecurity, and web applications built during hackathons and research. As a CS+AI/ML student at VIT Bhopal, I share my team and solo ventures, open-source contributions, and innovative tools to inspire collaboration and learning.
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
+## 📖 Overview
 
-## 🤝 Team Projects
-
-| Project | Description | Tech |
-|-------|------------|------|
-| **Cropix** | AI-powered crop analysis / agriculture tool | Python, ML |
-| **Resumer** | Resume analysis & optimization tool | NLP, AI |
-| **Agentic Honeypot** | Intelligent honeypot system to detect attackers | Security, AI |
-| **Fish Pish** | Phishing detection system | Cybersecurity, ML |
+Welcome to my personal project hub! This repository is a curated collection of my work across various domains including **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. Most of these projects were built during intensive hackathons, research sprints, or as part of my continuous learning journey.
 
 ---
 
-## 🧠 Solo Projects
+## 🤝 Featured Team Projects
 
-| Project | Description | Tech |
-|-------|------------|------|
-| **DietMaxx** | Diet planning & nutrition assistant | Python, AI |
-| **HumanEval** | Code evaluation & benchmarking tool | Python |
-| **HackathonHunt** | Platform to discover hackathons | Web |
-| **Codevert** | Code conversion & transformation tool | AI |
-| **JarvisAI** | Personal AI assistant | Python, LLMs |
+*Explore high-impact collaborative work from various hackathons.*
+
+| Project | Core Tech | Description |
+| :--- | :--- | :--- |
+| **[Cropix](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `Python`, `ML` | AI-powered agriculture platform for crop analysis and disease detection. |
+| **[Resumer](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `NLP`, `AI` | Intelligent resume optimization tool for job seekers. |
+| **[Agentic Honeypot](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `Security`, `AI` | Autonomous honeypot system designed to lure and analyze attackers. |
+| **[Fish Pish](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `Cybersecurity` | Real-time phishing detection system using machine learning. |
+
+---
+
+## 🧠 Featured Solo Projects
+
+*My personal deep dives into specific technologies and problem-solving.*
+
+| Project | Category | Tech Stack |
+| :--- | :--- | :--- |
+| **[CodeDine](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | Education | `Next.js`, `Algorithms`, `AI` |
+| **[FractureNet](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | Healthcare | `YOLOv8`, `FastAPI`, `CV` |
+| **[DietMaxx](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | HealthTech | `Next.js`, `Gemini AI` |
+| **[HackathonHunt](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | DevTools | `FastAPI`, `Next.js`, `Scraping` |
+| **[CodeVert](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | Automation | `Gemini API`, `Python`, `React` |
 
 ---
 
 ## 🌍 Open Source Contributions
 
-| Project | Contribution |
-|-------|-------------|
-| **Sentiment Analysis** | NLP improvements & bug fixes |
-| **GreenPass** | Feature contributions |
-| **Pics** | UI / logic enhancements |
+*Giving back to the community and contributing to large-scale projects.*
+
+- 🚀 **[Academic Hub](https://github.com/ShaikhWarsi/academic-hub)**: Full-stack MERN dashboard for academic tracking.
+- 🐛 **[Bug Exorcist](https://github.com/ShaikhWarsi/bug-exorcist)**: Autonomous coding agent for automated bug fixing.
+- ✨ **[Creator Catalyst](https://github.com/ShaikhWarsi/Creator-Catalyst)**: AI agent for repurposing long-form video content.
+
+---
+
+## ⚡ Skills & Expertise
+
+- **Languages:** Python, JavaScript, TypeScript, C++, Java, SQL
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI/Gemini APIs
+- **Web:** Next.js, React, Node.js, FastAPI, Flask, MongoDB, PostgreSQL
+- **Security:** Penetration Testing, Network Security, AI-driven Threat Detection
 
 ---
 
 ## 📊 Quick Stats
-- 🏆 Multiple hackathon wins  
-- 🧪 30+ repositories  
-- 🧠 Focus: AI, Security, Automation, Developer Tools  
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikhWarsi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhWarsi&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔗 Find Me
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: *(optional)*
+## 🔗 Connect With Me
 
-> ⭐ If you find anything interesting, feel free to star or fork!
+<div align="center">
+  <a href="https://github.com/ShaikhWarsi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shaikh-warsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-
-# Project Navigator
-
-## Solo Projects
-
-
-### All-My-Projects
-
-A curated collection of AI, ML, cybersecurity, and web projects by a VIT Bhopal CS student and hackathon enthusiast.
-
-### AxinTweak
-
-A batch script to apply essential Windows tweaks, debloaters, and community tools for optimizing your Windows experience.
-
-### CodeDine
-
-AI-powered interview preparation platform mastering 16 core algorithmic patterns with real-time coaching and spaced repetition.
-
-### CodeVert
-
-AI-powered code converter using Gemini API, converts code between Python, C++, and Java with syntax highlighting and file support.
-
-### Cropix
-
-CROPIX is an AI agriculture platform providing crop recommendations, fertilizer suggestions, disease detection, market forecasting, and weather prediction.
-
-### DietMaxx
-
-Personalized diet recommendation web app using Next.js, React, and Gemini AI. Multi-step form collects health data to generate tailored dietary plans.
-
-### FractureNet
-
-AI-powered medical imaging platform for automated bone fracture detection in X-rays using YOLOv8 with explainable AI (Grad-CAM).
-
-### HackathonHunt
-
-A platform to discover and manage hackathons, aggregating events from Devfolio, Devpost, and more with a FastAPI backend and Next.js frontend.
-
-### Honey
-
-Agentic AI application built with LangGraph, Google GenAI, FastAPI, and ChromaDB for intelligent agent orchestration and vector storage.
-
-### HumanEval
-
-A cognitive skills testing platform with interactive games for memory, reaction time, typing, and aim training. Built with Next.js and TypeScript.
-
-### IEEE-CIS-Fraud-detection
-
-XGBoost fraud detection pipeline with advanced feature engineering for IEEE-CIS, focusing on cardholder UID, D‑column normalization, and group aggregations.
+<p align="center">
+  <i>"Code is not just logic; it's a way to solve real-world problems."</i>
+</p>
 
 ### portfolio
 
