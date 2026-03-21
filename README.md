@@ -1,12 +1,7 @@
-# 🚀 All My Projects
+# All-My-Projects
 
-Hi, I'm **Shaikh Mohammad Warsi** 👋  
-CS + AI/ML student at **VIT Bhopal**, hackathon enthusiast & builder.
+Welcome to my personal project hub — a curated collection of AI, ML, cybersecurity, and web applications built during hackathons and research. As a CS+AI/ML student at VIT Bhopal, I share my team and solo ventures, open-source contributions, and innovative tools to inspire collaboration and learning.
 
-This repository acts as a **navigation hub** for all my work —  
-team projects, solo builds, and open-source contributions.
-
----
 
 ## 🤝 Team Projects
 
