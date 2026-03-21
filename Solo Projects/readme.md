@@ -1,87 +1,78 @@
 <div align="center">
-  <br />
-  <br />
-  <h1>Solo Engineering</h1>
-  <p align="center">
-    <i>Independent technical explorations in artificial intelligence, medical imaging, and system optimization.</i>
-  </p>
-  <br />
-  <hr width="100" />
-  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  # 🧠 Solo Projects
+  <p><i>A collection of independent deep-dives into AI, Healthcare, and Developer Tools.</i></p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## Independent Projects
+---
 
-#### [SmudgeAI](https://github.com/ShaikhWarsi/SmudgeAI)
-Windows-native autonomous AI agent for desktop automation with vision-based UI navigation.
-`Vision-AI` • `GPT` • `Python` • `Automation`
+## 🚀 Featured Projects
 
-<br />
+### 💻 CodeDine
+AI-powered interview preparation platform mastering 16 core algorithmic patterns with real-time coaching and spaced repetition.
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![AI](https://img.shields.io/badge/AI-4169E1?style=for-the-badge&logo=openai&logoColor=white)
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/CodeDine)
 
-#### [CodeDine](https://github.com/ShaikhWarsi/CodeDine)
-AI-powered interview preparation platform for mastering core algorithmic patterns.
-`Next.js` • `Algorithms` • `AI` • `Education`
+### 🦴 FractureNet
+AI-powered medical imaging platform for automated bone fracture detection in X-rays using YOLOv8 with explainable AI (Grad-CAM).
+- **Tech Stack:** ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/FractureNet)
 
-<br />
+### 🥗 DietMaxx
+Personalized diet recommendation web app using Next.js, React, and Gemini AI. Multi-step form collects health data to generate tailored dietary plans.
+- **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75C2?style=for-the-badge&logo=google&logoColor=white)
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/DietMaxx)
 
-#### [FractureNet](https://github.com/ShaikhWarsi/FractureNet)
-Medical imaging platform for automated bone fracture detection in radiological assets using YOLOv8.
-`YOLOv8` • `FastAPI` • `Computer Vision` • `Healthcare`
+### 🔍 HackathonHunt
+A platform to discover and manage hackathons, aggregating events from Devfolio, Devpost, and more.
+- **Tech Stack:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/HackathonHunt)
 
-<br />
+### 🔄 CodeVert
+AI-powered code converter using Gemini API, converts code between Python, C++, and Java with syntax highlighting.
+- **Tech Stack:** ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75C2?style=for-the-badge&logo=google&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/CodeVert)
 
-#### [DietMaxx](https://github.com/ShaikhWarsi/DietMaxx)
-Personalized nutrition and dietary planning application driven by Gemini AI.
-`Next.js` • `Gemini AI` • `React` • `HealthTech`
+### 🛠️ AxinTweak
+A batch script to apply essential Windows tweaks, debloaters, and community tools for optimizing Windows performance.
+- **Tech Stack:** ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/AxinTweak)
 
-<br />
+---
 
-#### [Honey](https://github.com/ShaikhWarsi/Honey)
-Agentic AI application for intelligent task orchestration and vectorized knowledge storage.
-`LangChain` • `FastAPI` • `ChromaDB` • `Vector Search`
+## 📂 Other Projects
 
-<br />
+<details>
+<summary><b>Click to expand more projects</b></summary>
 
-#### [HumanEval](https://github.com/ShaikhWarsi/HumanEval)
-Cognitive assessment platform featuring interactive modules for evaluating technical and mental skills.
-`Next.js` • `TypeScript` • `Assessment` • `Interactive`
+### 🐝 Honey
+Agentic AI application built with LangGraph, Google GenAI, FastAPI, and ChromaDB for intelligent agent orchestration and vector storage.
+- **Tech Stack:** `LangGraph`, `FastAPI`, `ChromaDB`
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/Honey)
 
-<br />
+### 🧪 HumanEval
+A cognitive skills testing platform with interactive games for memory, reaction time, typing, and aim training. Built with Next.js and TypeScript.
+- **Tech Stack:** `Next.js`, `TypeScript`
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/HumanEval)
 
-#### [HackathonHunt](https://github.com/ShaikhWarsi/HackathonHunt)
-Centralized platform for discovering and managing global technical hackathon events.
-`FastAPI` • `Next.js` • `Web Scraping` • `Automation`
+### 💳 Fraud Detection
+XGBoost fraud detection pipeline with advanced feature engineering for IEEE-CIS.
+- **Tech Stack:** `Python`, `XGBoost`, `Scikit-learn`
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/IEEE-CIS-Fraud-detection)
 
-<br />
+### 🌐 Portfolio
+Personal portfolio of a Fullstack Developer and AI Specialist.
+- **Tech Stack:** `Next.js`, `Tailwind`, `Framer Motion`
+- **Repo:** [🔗 GitHub](https://github.com/ShaikhWarsi/portfolio)
 
-#### [CodeVert](https://github.com/ShaikhWarsi/CodeVert)
-AI-powered syntax transformation tool for high-fidelity code conversion across languages.
-`Gemini API` • `Python` • `React` • `Developer Tools`
-
-<br />
-
-#### [Fraud-Detect](https://github.com/ShaikhWarsi/IEEE-CIS-Fraud-detection)
-Advanced fraud detection pipeline utilizing XGBoost and complex feature engineering.
-`Data Science` • `XGBoost` • `Machine Learning` • `FinTech`
-
-<br />
-
-#### [AxinTweak](https://github.com/ShaikhWarsi/AxinTweak)
-Performance optimization and system debloating utility for Windows environments.
-`Batch` • `Optimization` • `System Utility` • `Windows`
-
-<br />
-
-#### [Portfolio](https://github.com/ShaikhWarsi/portfolio)
-Professional technical portfolio and AI project showcase engineered for high-impact presentation.
-`Next.js` • `Tailwind CSS` • `Framer Motion` • `Branding`
-
-<br />
+</details>
 
 ---
 
 <div align="center">
-  <p align="center">
-    <a href="../README.md">Return to Hub</a>
-  </p>
+  <br />
+  <a href="../README.md">🏠 Back to Hub</a>
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
