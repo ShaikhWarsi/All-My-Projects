@@ -1,209 +1,39 @@
 <div align="center">
-  # 🌍 Open Source Contributions
-  <p><i>Contributing to the community and building better software together.</i></p>
+  # Open Source Contributions
+  <p><i>Collaborative development and technical contributions to the global developer community.</i></p>
 </div>
 
 ---
 
-## 🚀 Projects Contributed To
+## Projects & Contributions
 
-| Project | Description | Repository |
-| :--- | :--- | :--- |
-| **Academic Hub** | Full-stack MERN academic dashboard to track subjects, goals, and progress. | [🔗 Repo](https://github.com/ShaikhWarsi/academic-hub) |
-| **Bug Exorcist** | Autonomous coding agent that fixes broken code while you sleep. | [🔗 Repo](https://github.com/ShaikhWarsi/bug-exorcist) |
-| **Creator Catalyst** | AI Content Repurpose Agent using long-form videos. | [🔗 Repo](https://github.com/ShaikhWarsi/Creator-Catalyst) |
-| **Blockchain Club** | Official site for the Blockchain Club. | [🔗 Repo](https://github.com/ShaikhWarsi/Blockchain-Club-Official-Site) |
-| **EXPENCE TRACKER** | Full-stack expense tracking web application built with Flask. | [🔗 Repo](https://github.com/ShaikhWarsi/EXPENCE_TRACKER) |
-| **EcoBridge** | Environmental sustainability and connectivity platform. | [🔗 Repo](https://github.com/ShaikhWarsi/EcoBridge) |
-| **Event-OD** | Event management and attendance tracking system. | [🔗 Repo](https://github.com/ShaikhWarsi/Event-OD) |
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **Layr** | VS Code extension for structured project planning. | `TypeScript`, `VS Code API` | [🔗 Repo](https://github.com/ShaikhWarsi/layr) |
+| **Schedlyx** | Open-source platform for event coordination and scheduling. | `Next.js`, `Tailwind` | [🔗 Repo](https://github.com/ShaikhWarsi/Schedlyx) |
+| **WorkLin** | Lightweight, open-source notes workspace with block architecture. | `React`, `Vite`, `Tailwind` | [🔗 Repo](https://github.com/ShaikhWarsi/WorkLin) |
+| **Vayura** | Environmental demand estimation and tree-plantation workflow. | `React`, `GIS` | [🔗 Repo](https://github.com/ShaikhWarsi/vayura) |
+| **Bug Exorcist** | Autonomous agent designed for automated code remediation. | `AI`, `Python` | [🔗 Repo](https://github.com/ShaikhWarsi/bug-exorcist) |
+| **Academic Hub** | Full-stack MERN dashboard for academic performance tracking. | `MongoDB`, `Express`, `React` | [🔗 Repo](https://github.com/ShaikhWarsi/academic-hub) |
+| **WhatsApp-CLI**| Resource-efficient terminal interface for WhatsApp messaging. | `Node.js`, `CLI` | [🔗 Repo](https://github.com/ShaikhWarsi/WhatsApp-CLI) |
+| **GreenPass** | Environmental management system for sustainable tourism. | `Security`, `Real-time` | [🔗 Repo](https://github.com/ShaikhWarsi/GreenPass) |
+| **Nova-Bank** | High-fidelity banking platform landing page interface. | `Next.js`, `Tailwind` | [🔗 Repo](https://github.com/ShaikhWarsi/Nova-Bank) |
+| **PyVM Updater** | Cross-platform Python environment version management utility. | `Python`, `CLI` | [🔗 Repo](https://github.com/ShaikhWarsi/pyvm-updater) |
+| **SOC Detector** | Security operations center log analysis tool for anomalies. | `Cybersecurity`, `Python` | [🔗 Repo](https://github.com/ShaikhWarsi/soc-log-anomaly-detector) |
+| **Creator Catalyst**| AI-driven content transformation agent for video assets. | `AI`, `Video-Processing` | [🔗 Repo](https://github.com/ShaikhWarsi/Creator-Catalyst) |
+| **EcoBridge** | Environmental sustainability and technical connectivity platform. | `Sustainability` | [🔗 Repo](https://github.com/ShaikhWarsi/EcoBridge) |
+| **Event-OD** | Professional event management and attendance tracking system. | `Utility` | [🔗 Repo](https://github.com/ShaikhWarsi/Event-OD) |
 
 ---
 
-## 🛠️ Contribution Highlights
+## Contribution Highlights
 
-- **Bug Fixing:** Identified and resolved critical issues in autonomous agents and web dashboards.
-- **Feature Development:** Implemented new modules for AI content repurposing and academic tracking.
-- **UI/UX Enhancements:** Improved front-end responsiveness and user flow in community projects.
+- **Technical Remediation:** Identified and resolved architectural issues in autonomous agents.
+- **Feature Engineering:** Developed modules for AI content transformation and academic tracking.
+- **Interface Optimization:** Enhanced front-end performance and user flow across multiple projects.
 
 <div align="center">
   <br />
-  <a href="../README.md">🏠 Back to Hub</a>
+  <a href="../README.md">Return to Hub</a>
 </div>
 
-The Tourist Management System addresses the critical need for regulating tourist flow in northern India's fragile ecosystems, particularly in response to recent natural calamities like flash floods and cloudbursts. The system enforces capacity limits (e.g., 1000 tourists) while enabling real-time monitoring and automated slot management.
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/GreenPass
-
----
-
-## Innovit-2026
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Innovit-2026
-
----
-
-## layr
-
-Layr is a VS Code extension that generates comprehensive, actionable project plans from natural language descriptions. Whether you're starting a new project or planning a feature, Layr helps you think through the architecture, requirements, and implementation steps before you write the first line of code.
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/layr
-
----
-
-## MediAssist_AI_Powered_Scribe
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/MediAssist_AI_Powered_Scribe
-
----
-
-## Nova-Bank
-
-NovaBank - A fictional banking platform built using NextJS. This site is inspired from the design - https://dribbble.com/shots/23439870-Nova-Bank-Landing-Page
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Nova-Bank
-
----
-
-## Pics---A-Camera-App
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Pics---A-Camera-App
-
----
-
-## Project-Toolsuite
-
-Simple. Fast. Free.
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Project-Toolsuite
-
----
-
-## pyvm-updater
-
-Cross-platform Python version checker and updater CLI tool
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/pyvm-updater
-
----
-
-## Schedlyx
-
-Schedlyx is an open-source platform for scheduling people, managing events, and coordinating registrations — from 1-on-1 meetings to hackathons, workshops, and group sessions.
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Schedlyx
-
----
-
-## sentiment_analysis_project
-
-Hii! its Mangal
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/sentiment_analysis_project
-
----
-
-## siem-conversational-agent
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/siem-conversational-agent
-
----
-
-## soc-log-anomaly-detector
-
-A beginner-friendly SOC log analysis tool to detect basic security anomalies.
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/soc-log-anomaly-detector
-
----
-
-## vayura
-
-Vayura is an open-source web application that estimates district-level oxygen demand across India and converts it into actionable tree-plantation and donation workflows. Built with transparency, scientific accuracy, and community contribution at its core.
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/vayura
-
----
-
-## WhatsApp-CLI
-
-CLI for WhatsApp, to save your RAM while you still can
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/WhatsApp-CLI
-
----
-
-## WorkLin
-
-Worklin is a lightweight,open-source notes workspace inspired by Notion. Create pages, organize in sidebar, and edit using simple blocks (headings, paragraphs, bullets, checklists). Built with React, Vite, Tailwind CSS. Features client-side persistence, keyboard editing, and extensible architecture. Perfect for students and developers. MIT-licensed
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/WorkLin
-
----
