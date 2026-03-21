@@ -1,32 +1,45 @@
 <div align="center">
   <br />
-  <h1>Team Projects</h1>
-  <p><i>Collaborative technical initiatives from hackathons and research sprints.</i></p>
   <br />
-  <hr width="50%" />
+  <h1>Collaborative Ventures</h1>
+  <p align="center">
+    <i>Technical initiatives developed in coordination with professional teams and hackathon squads.</i>
+  </p>
+  <br />
+  <hr width="100" />
+  <br />
 </div>
 
-## Collaborative Ventures
+## Team Initiatives
 
-#### Cropix
-AI agriculture platform providing precision recommendations for crops and fertilizers.
-`Python` • `ML` • `FastAPI`
+#### [Cropix](https://github.com/ShaikhWarsi/Cropix)
+AI-driven agricultural platform providing precision recommendations for crops and fertilizers based on real-time data.
+`Python` • `Machine Learning` • `FastAPI` • `Agriculture AI`
 
-#### Resumer
-NLP-driven analysis tool for resume optimization and ATS compliance.
-`NLP` • `AI` • `React`
+<br />
 
-#### Agentic Honeypot
-Autonomous AI-driven honeypot designed for proactive threat intelligence.
-`Security` • `AI Agents` • `Python`
+#### [Resumer](https://github.com/ShaikhWarsi/Resumer)
+NLP-based analytical engine for resume optimization and ATS compliance assessment.
+`NLP` • `Generative AI` • `React` • `Automation`
 
-#### Fish Pish
-Real-time phishing detection system for identifying malicious URLs and email assets.
-`Cybersecurity` • `ML` • `Security`
+<br />
+
+#### [Agentic Honeypot](https://github.com/ShaikhWarsi/Agentic-Honeypot)
+Autonomous security infrastructure designed for proactive threat intelligence and attacker analysis.
+`Cybersecurity` • `AI Agents` • `Python` • `Threat Intelligence`
+
+<br />
+
+#### [Fish Pish](https://github.com/ShaikhWarsi/Fish-Pish)
+Real-time phishing detection system for automated identification of malicious URLs and social engineering assets.
+`Cybersecurity` • `Machine Learning` • `Security` • `Web Analysis`
+
+<br />
 
 ---
 
 <div align="center">
-  <br />
-  <a href="../README.md">Return to Hub</a>
+  <p align="center">
+    <a href="../README.md">Return to Hub</a>
+  </p>
 </div>

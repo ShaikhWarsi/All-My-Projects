@@ -1,60 +1,87 @@
 <div align="center">
   <br />
-  <h1>Solo Projects</h1>
-  <p><i>Independent technical explorations in AI, Healthcare, and Developer Utilities.</i></p>
   <br />
-  <hr width="50%" />
+  <h1>Solo Engineering</h1>
+  <p align="center">
+    <i>Independent technical explorations in artificial intelligence, medical imaging, and system optimization.</i>
+  </p>
+  <br />
+  <hr width="100" />
+  <br />
 </div>
 
 ## Independent Projects
 
 #### [SmudgeAI](https://github.com/ShaikhWarsi/SmudgeAI)
-Windows-native autonomous AI agent for desktop automation.
-`Vision-AI` • `GPT` • `Python`
+Windows-native autonomous AI agent for desktop automation with vision-based UI navigation.
+`Vision-AI` • `GPT` • `Python` • `Automation`
+
+<br />
 
 #### [CodeDine](https://github.com/ShaikhWarsi/CodeDine)
-AI interview preparation platform for mastering algorithmic patterns.
-`Next.js` • `Algorithms` • `AI`
+AI-powered interview preparation platform for mastering core algorithmic patterns.
+`Next.js` • `Algorithms` • `AI` • `Education`
+
+<br />
 
 #### [FractureNet](https://github.com/ShaikhWarsi/FractureNet)
-AI medical imaging for automated bone fracture detection in X-rays.
-`YOLOv8` • `FastAPI` • `CV`
+Medical imaging platform for automated bone fracture detection in radiological assets using YOLOv8.
+`YOLOv8` • `FastAPI` • `Computer Vision` • `Healthcare`
+
+<br />
 
 #### [DietMaxx](https://github.com/ShaikhWarsi/DietMaxx)
-Personalized diet and nutrition web application powered by Gemini AI.
-`Next.js` • `Gemini AI` • `React`
+Personalized nutrition and dietary planning application driven by Gemini AI.
+`Next.js` • `Gemini AI` • `React` • `HealthTech`
+
+<br />
 
 #### [Honey](https://github.com/ShaikhWarsi/Honey)
-Agentic AI application for intelligent orchestration and vector storage.
-`LangChain` • `FastAPI` • `ChromaDB`
+Agentic AI application for intelligent task orchestration and vectorized knowledge storage.
+`LangChain` • `FastAPI` • `ChromaDB` • `Vector Search`
+
+<br />
 
 #### [HumanEval](https://github.com/ShaikhWarsi/HumanEval)
-Cognitive skills testing platform with interactive assessment modules.
-`Next.js` • `TypeScript` • `Testing`
+Cognitive assessment platform featuring interactive modules for evaluating technical and mental skills.
+`Next.js` • `TypeScript` • `Assessment` • `Interactive`
+
+<br />
 
 #### [HackathonHunt](https://github.com/ShaikhWarsi/HackathonHunt)
-Platform to discover and manage technical hackathon events globally.
-`FastAPI` • `Next.js` • `Scraping`
+Centralized platform for discovering and managing global technical hackathon events.
+`FastAPI` • `Next.js` • `Web Scraping` • `Automation`
+
+<br />
 
 #### [CodeVert](https://github.com/ShaikhWarsi/CodeVert)
-AI-powered code conversion tool with multi-language syntax support.
-`Gemini API` • `Python` • `React`
+AI-powered syntax transformation tool for high-fidelity code conversion across languages.
+`Gemini API` • `Python` • `React` • `Developer Tools`
+
+<br />
 
 #### [Fraud-Detect](https://github.com/ShaikhWarsi/IEEE-CIS-Fraud-detection)
-XGBoost fraud detection pipeline with advanced feature engineering.
-`Data-Science` • `XGBoost` • `Machine Learning`
+Advanced fraud detection pipeline utilizing XGBoost and complex feature engineering.
+`Data Science` • `XGBoost` • `Machine Learning` • `FinTech`
+
+<br />
 
 #### [AxinTweak](https://github.com/ShaikhWarsi/AxinTweak)
-Windows optimization and performance enhancement utility script.
-`Batch` • `Optimization` • `Utility`
+Performance optimization and system debloating utility for Windows environments.
+`Batch` • `Optimization` • `System Utility` • `Windows`
+
+<br />
 
 #### [Portfolio](https://github.com/ShaikhWarsi/portfolio)
-Professional developer portfolio and technical project showcase.
-`Next.js` • `Tailwind` • `Framer Motion`
+Professional technical portfolio and AI project showcase engineered for high-impact presentation.
+`Next.js` • `Tailwind CSS` • `Framer Motion` • `Branding`
+
+<br />
 
 ---
 
 <div align="center">
-  <br />
-  <a href="../README.md">Return to Hub</a>
+  <p align="center">
+    <a href="../README.md">Return to Hub</a>
+  </p>
 </div>

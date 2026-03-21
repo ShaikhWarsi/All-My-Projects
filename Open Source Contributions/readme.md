@@ -1,80 +1,115 @@
 <div align="center">
   <br />
-  <h1>Open Source Contributions</h1>
-  <p><i>Collaborative development and technical contributions to the global developer community.</i></p>
   <br />
-  <hr width="50%" />
+  <h1>Community Contributions</h1>
+  <p align="center">
+    <i>Collaborative development and technical engagement within the global open-source ecosystem.</i>
+  </p>
+  <br />
+  <hr width="100" />
+  <br />
 </div>
 
 ## Projects & Contributions
 
 #### [Layr](https://github.com/ShaikhWarsi/layr)
-VS Code extension for structured project planning from natural language.
-`TypeScript` • `VS Code API`
+VS Code extension for high-fidelity project planning from natural language intent.
+`TypeScript` • `VS Code API` • `NLP`
+
+<br />
 
 #### [Schedlyx](https://github.com/ShaikhWarsi/Schedlyx)
-Open-source platform for event coordination and scheduling automation.
+Open-source engine for event coordination and decentralized scheduling automation.
 `Next.js` • `Tailwind` • `PostgreSQL`
 
+<br />
+
 #### [WorkLin](https://github.com/ShaikhWarsi/WorkLin)
-Lightweight, open-source notes workspace with block-based architecture.
+Lightweight documentation workspace featuring block-based editing and modern architecture.
 `React` • `Vite` • `Tailwind`
 
+<br />
+
 #### [Vayura](https://github.com/ShaikhWarsi/vayura)
-Oxygen demand estimation and environmental tree-plantation workflow platform.
-`React` • `GIS` • `Data Analysis`
+GIS-powered environmental platform for oxygen demand analysis and tree-plantation workflows.
+`React` • `GIS` • `Environmental Analysis`
+
+<br />
 
 #### [Bug Exorcist](https://github.com/ShaikhWarsi/bug-exorcist)
-Autonomous AI agent designed for automated code remediation and analysis.
-`AI` • `Python` • `Automation`
+Autonomous agent designed for automated code remediation and architectural analysis.
+`AI` • `Python` • `Code Analysis`
+
+<br />
 
 #### [Academic Hub](https://github.com/ShaikhWarsi/academic-hub)
-Full-stack MERN dashboard for centralized academic performance tracking.
+Full-stack MERN dashboard for centralized academic performance tracking and goal management.
 `MongoDB` • `Express` • `React` • `Node.js`
 
+<br />
+
 #### [WhatsApp-CLI](https://github.com/ShaikhWarsi/WhatsApp-CLI)
-Resource-efficient terminal interface for secure messaging via WhatsApp.
+Resource-optimized terminal interface for secure messaging via WhatsApp protocols.
 `Node.js` • `CLI` • `Security`
 
+<br />
+
 #### [GreenPass](https://github.com/ShaikhWarsi/GreenPass)
-Environmental management system for sustainable tourism in fragile ecosystems.
-`Security` • `Real-time Systems` • `Sustainability`
+Logistics management system for sustainable tourism in high-risk environmental zones.
+`Real-time Systems` • `Logistics` • `Sustainability`
+
+<br />
 
 #### [Nova-Bank](https://github.com/ShaikhWarsi/Nova-Bank)
 High-fidelity banking platform landing page interface and visual demonstration.
 `Next.js` • `Tailwind` • `Framer Motion`
 
+<br />
+
 #### [PyVM Updater](https://github.com/ShaikhWarsi/pyvm-updater)
-Cross-platform Python environment version management and automation utility.
+Cross-platform environment management utility for Python versioning and version control.
 `Python` • `CLI` • `Automation`
 
+<br />
+
 #### [SOC Detector](https://github.com/ShaikhWarsi/soc-log-anomaly-detector)
-Security operations center log analysis tool designed for anomaly detection.
-`Cybersecurity` • `Python` • `Data Analysis`
+Security operations center engine designed for behavioral anomaly detection in system logs.
+`Cybersecurity` • `Python` • `Anomaly Detection`
+
+<br />
 
 #### [Creator Catalyst](https://github.com/ShaikhWarsi/Creator-Catalyst)
-AI-driven content transformation agent for repurposing long-form video assets.
-`AI` • `Video-Processing` • `Generative AI`
+AI-driven transformation agent for repurposing long-form video assets into digital content.
+`AI` • `Video Processing` • `Generative AI`
+
+<br />
 
 #### [EcoBridge](https://github.com/ShaikhWarsi/EcoBridge)
-Environmental sustainability and technical connectivity platform for collaboration.
-`Sustainability` • `Web` • `Community`
+Sustainability infrastructure focused on ecological connectivity and open-source collaboration.
+`Sustainability` • `Web Engineering` • `Open-Source`
+
+<br />
 
 #### [Event-OD](https://github.com/ShaikhWarsi/Event-OD)
-Professional event management and attendance tracking system for organizations.
-`Utility` • `Web` • `Organization`
+Professional event management and attendance tracking system for technical organizations.
+`Utility` • `Web Engineering` • `Organization`
+
+<br />
 
 ---
 
 ## Contribution Highlights
 
-- **Technical Remediation**: Identified and resolved architectural issues in autonomous agent workflows.
-- **Feature Engineering**: Developed specialized modules for AI content transformation and academic analytics.
-- **Interface Optimization**: Enhanced front-end performance and user flow across multiple open-source repositories.
+- **Architectural Remediation**: Resolved critical structural issues in autonomous agent workflows.
+- **Feature Engineering**: Designed specialized modules for AI-driven video transformation and academic analytics.
+- **System Optimization**: Enhanced front-end performance and user flow across multiple distributed repositories.
+
+<br />
 
 ---
 
 <div align="center">
-  <br />
-  <a href="../README.md">Return to Hub</a>
+  <p align="center">
+    <a href="../README.md">Return to Hub</a>
+  </p>
 </div>
