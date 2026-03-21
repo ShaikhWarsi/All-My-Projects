@@ -1,102 +1,34 @@
-# Open Source Contributions
-
-## academic-hub
-
-A full-stack MERN academic dashboard to track subjects, goals,progress on YouTube tutorials and much more
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/academic-hub
+<div align="center">
+  # 🌍 Open Source Contributions
+  <p><i>Contributing to the community and building better software together.</i></p>
+</div>
 
 ---
 
-## acwoc-community-challenge
+## 🚀 Projects Contributed To
 
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/acwoc-community-challenge
-
----
-
-## Blockchain-Club-Official-Site
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Blockchain-Club-Official-Site
+| Project | Description | Repository |
+| :--- | :--- | :--- |
+| **Academic Hub** | Full-stack MERN academic dashboard to track subjects, goals, and progress. | [🔗 Repo](https://github.com/ShaikhWarsi/academic-hub) |
+| **Bug Exorcist** | Autonomous coding agent that fixes broken code while you sleep. | [🔗 Repo](https://github.com/ShaikhWarsi/bug-exorcist) |
+| **Creator Catalyst** | AI Content Repurpose Agent using long-form videos. | [🔗 Repo](https://github.com/ShaikhWarsi/Creator-Catalyst) |
+| **Blockchain Club** | Official site for the Blockchain Club. | [🔗 Repo](https://github.com/ShaikhWarsi/Blockchain-Club-Official-Site) |
+| **EXPENCE TRACKER** | Full-stack expense tracking web application built with Flask. | [🔗 Repo](https://github.com/ShaikhWarsi/EXPENCE_TRACKER) |
+| **EcoBridge** | Environmental sustainability and connectivity platform. | [🔗 Repo](https://github.com/ShaikhWarsi/EcoBridge) |
+| **Event-OD** | Event management and attendance tracking system. | [🔗 Repo](https://github.com/ShaikhWarsi/Event-OD) |
 
 ---
 
-## bug-exorcist
+## 🛠️ Contribution Highlights
 
-An autonomous coding agent that fixes broken code while you sleep.
+- **Bug Fixing:** Identified and resolved critical issues in autonomous agents and web dashboards.
+- **Feature Development:** Implemented new modules for AI content repurposing and academic tracking.
+- **UI/UX Enhancements:** Improved front-end responsiveness and user flow in community projects.
 
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/bug-exorcist
-
----
-
-## Creator-Catalyst
-
-AI Content Repurpose Agent using long form Videos
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Creator-Catalyst
-
----
-
-## EcoBridge
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/EcoBridge
-
----
-
-## Event-OD
-
-None
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/Event-OD
-
----
-
-## EXPENCE_TRACKER
-
-A full-stack expense tracking web application built with Flask
-
-Tech stack:
-
-
-Repository:
-https://github.com/ShaikhWarsi/EXPENCE_TRACKER
-
----
-
-## GreenPass
+<div align="center">
+  <br />
+  <a href="../README.md">🏠 Back to Hub</a>
+</div>
 
 The Tourist Management System addresses the critical need for regulating tourist flow in northern India's fragile ecosystems, particularly in response to recent natural calamities like flash floods and cloudbursts. The system enforces capacity limits (e.g., 1000 tourists) while enabling real-time monitoring and automated slot management.
 

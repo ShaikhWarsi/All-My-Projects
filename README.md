@@ -28,10 +28,10 @@ Welcome to my personal project hub! This repository is a curated collection of m
 
 | Project | Core Tech | Description |
 | :--- | :--- | :--- |
-| **[Cropix](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `Python`, `ML` | AI-powered agriculture platform for crop analysis and disease detection. |
-| **[Resumer](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `NLP`, `AI` | Intelligent resume optimization tool for job seekers. |
-| **[Agentic Honeypot](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `Security`, `AI` | Autonomous honeypot system designed to lure and analyze attackers. |
-| **[Fish Pish](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Team%20Projects/readme.md)** | `Cybersecurity` | Real-time phishing detection system using machine learning. |
+| **[Cropix](./Team%20Projects/readme.md)** | `Python`, `ML` | AI-powered agriculture platform for crop analysis and disease detection. |
+| **[Resumer](./Team%20Projects/readme.md)** | `NLP`, `AI` | Intelligent resume optimization tool for job seekers. |
+| **[Agentic Honeypot](./Team%20Projects/readme.md)** | `Security`, `AI` | Autonomous honeypot system designed to lure and analyze attackers. |
+| **[Fish Pish](./Team%20Projects/readme.md)** | `Cybersecurity` | Real-time phishing detection system using machine learning. |
 
 ---
 
@@ -41,11 +41,11 @@ Welcome to my personal project hub! This repository is a curated collection of m
 
 | Project | Category | Tech Stack |
 | :--- | :--- | :--- |
-| **[CodeDine](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | Education | `Next.js`, `Algorithms`, `AI` |
-| **[FractureNet](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | Healthcare | `YOLOv8`, `FastAPI`, `CV` |
-| **[DietMaxx](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | HealthTech | `Next.js`, `Gemini AI` |
-| **[HackathonHunt](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | DevTools | `FastAPI`, `Next.js`, `Scraping` |
-| **[CodeVert](file:///c:/Users/Mohammad/OneDrive/Desktop/CODER101/All-My-Projects-main/Solo%20Projects/readme.md)** | Automation | `Gemini API`, `Python`, `React` |
+| **[CodeDine](./Solo%20Projects/readme.md)** | Education | `Next.js`, `Algorithms`, `AI` |
+| **[FractureNet](./Solo%20Projects/readme.md)** | Healthcare | `YOLOv8`, `FastAPI`, `CV` |
+| **[DietMaxx](./Solo%20Projects/readme.md)** | HealthTech | `Next.js`, `Gemini AI` |
+| **[HackathonHunt](./Solo%20Projects/readme.md)** | DevTools | `FastAPI`, `Next.js`, `Scraping` |
+| **[CodeVert](./Solo%20Projects/readme.md)** | Automation | `Gemini API`, `Python`, `React` |
 
 ---
 
@@ -87,126 +87,70 @@ Welcome to my personal project hub! This repository is a curated collection of m
   <i>"Code is not just logic; it's a way to solve real-world problems."</i>
 </p>
 
-### portfolio
+---
 
-Personal portfolio of a Fullstack Developer and AI Specialist showcasing innovative projects in AI, machine learning, and web development.
+## 🤖 AI & Machine Learning
 
-### ShaikhWarsi
+*Pushing the boundaries of automation and intelligence.*
 
-Computer Science student building applied AI systems, focused on Machine Learning, automation, and real-world deployment.
-
-### SmudgeAI
-
-Windows-native autonomous AI agent for desktop automation with vision-based UI navigation, multi-step workflow execution, and LLM-powered reasoning.
-
-
-➡️ Detailed list: ./solo
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| **SmudgeAI** | Windows-native autonomous AI agent for desktop automation. | `Python`, `LLMs`, `Vision-AI` |
+| **Layr** | VS Code extension generating project plans from natural language. | `TypeScript`, `NLP`, `VS Code API` |
+| **MediAssist** | AI-powered medical scribe for healthcare automation. | `Python`, `Speech-to-Text`, `AI` |
+| **SIEM Agent** | Conversational agent for security information management. | `Security`, `AI`, `LangChain` |
+| **SOC Detector** | Log analysis tool to detect security anomalies. | `Cybersecurity`, `ML`, `Python` |
 
 ---
 
-## Team Projects
+## 💻 Web & Full-Stack
 
+*Scalable, modern, and user-centric web applications.*
 
-
-➡️ Detailed list: ./team
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Schedlyx** | Scheduling platform for meetings, hackathons, and workshops. | `Next.js`, `PostgreSQL`, `Tailwind` |
+| **WorkLin** | Notion-inspired notes workspace with block editing. | `React`, `Vite`, `Tailwind` |
+| **Nova-Bank** | Fictional high-end banking landing page and UI. | `Next.js`, `Framer Motion` |
+| **Vayura** | Oxygen demand estimator and donation workflow platform. | `React`, `Open-Source`, `GIS` |
+| **Academic Hub** | Full-stack MERN dashboard for academic goal tracking. | `MongoDB`, `Express`, `React`, `Node` |
 
 ---
 
-## Open Source Contributions
+## 🛠️ Developer Tools & Utilities
 
+*Tools built to streamline the developer experience.*
 
-### academic-hub
+| Project | Description | Language |
+| :--- | :--- | :--- |
+| **WhatsApp-CLI** | Resource-efficient CLI for using WhatsApp in terminal. | `Node.js`, `CLI` |
+| **PyVM Updater** | Cross-platform Python version checker and updater. | `Python`, `CLI` |
+| **Bug Exorcist** | Autonomous coding agent that fixes broken code. | `AI`, `Automation`, `Python` |
+| **Creator Catalyst**| AI content repurpose agent for long-form videos. | `AI`, `Video-Processing` |
+| **Toolsuite** | A collection of fast, simple, and free developer tools. | `Web`, `Utilities` |
 
-A full-stack MERN academic dashboard to track subjects, goals,progress on YouTube tutorials and much more
+---
 
-### acwoc-community-challenge
+## 🌍 Social Impact & Others
 
-None
+| Project | Description | Category |
+| :--- | :--- | :--- |
+| **GreenPass** | Tourist flow management for fragile ecosystems. | `Social Impact` |
+| **EcoBridge** | Sustainability and environmental connectivity. | `Open-Source` |
+| **Event-OD** | Attendance tracking and event management system. | `Utility` |
+| **Blockchain Site** | Official platform for the Blockchain Club. | `Web` |
 
-### Blockchain-Club-Official-Site
+---
 
-None
+<p align="center">
+  <br />
+  <a href="./Solo%20Projects/readme.md"><b>🧠 Solo Projects</b></a> • 
+  <a href="./Team%20Projects/readme.md"><b>🤝 Team Projects</b></a> • 
+  <a href="./Open%20Source%20Contributions/readme.md"><b>🌍 Open Source</b></a>
+</p>
 
-### bug-exorcist
-
-An autonomous coding agent that fixes broken code while you sleep.
-
-### Creator-Catalyst
-
-AI Content Repurpose Agent using long form Videos
-
-### EcoBridge
-
-None
-
-### Event-OD
-
-None
-
-### EXPENCE_TRACKER
-
-A full-stack expense tracking web application built with Flask
-
-### GreenPass
-
-The Tourist Management System addresses the critical need for regulating tourist flow in northern India's fragile ecosystems, particularly in response to recent natural calamities like flash floods and cloudbursts. The system enforces capacity limits (e.g., 1000 tourists) while enabling real-time monitoring and automated slot management.
-
-### Innovit-2026
-
-None
-
-### layr
-
-Layr is a VS Code extension that generates comprehensive, actionable project plans from natural language descriptions. Whether you're starting a new project or planning a feature, Layr helps you think through the architecture, requirements, and implementation steps before you write the first line of code.
-
-### MediAssist_AI_Powered_Scribe
-
-None
-
-### Nova-Bank
-
-NovaBank - A fictional banking platform built using NextJS. This site is inspired from the design - https://dribbble.com/shots/23439870-Nova-Bank-Landing-Page
-
-### Pics---A-Camera-App
-
-None
-
-### Project-Toolsuite
-
-Simple. Fast. Free.
-
-### pyvm-updater
-
-Cross-platform Python version checker and updater CLI tool
-
-### Schedlyx
-
-Schedlyx is an open-source platform for scheduling people, managing events, and coordinating registrations — from 1-on-1 meetings to hackathons, workshops, and group sessions.
-
-### sentiment_analysis_project
-
-Hii! its Mangal
-
-### siem-conversational-agent
-
-None
-
-### soc-log-anomaly-detector
-
-A beginner-friendly SOC log analysis tool to detect basic security anomalies.
-
-### vayura
-
-Vayura is an open-source web application that estimates district-level oxygen demand across India and converts it into actionable tree-plantation and donation workflows. Built with transparency, scientific accuracy, and community contribution at its core.
-
-### WhatsApp-CLI
-
-CLI for WhatsApp, to save your RAM while you still can
-
-### WorkLin
-
-Worklin is a lightweight,open-source notes workspace inspired by Notion. Create pages, organize in sidebar, and edit using simple blocks (headings, paragraphs, bullets, checklists). Built with React, Vite, Tailwind CSS. Features client-side persistence, keyboard editing, and extensible architecture. Perfect for students and developers. MIT-licensed
-
-
-➡️ Detailed list: ./open-source
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <p><i>Crafted with ❤️ by <a href="https://github.com/ShaikhWarsi">Shaikh Warsi</a></i></p>
+</div>
 
