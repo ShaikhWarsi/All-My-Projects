@@ -1,192 +1,169 @@
 <div align="center">
-  <br />
-  <br />
-  <br />
-  <h1>Shaikh Warsi</h1>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
+  # 🚀 Portfolio Hub: AI, Security & Full-Stack
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Code;Hackathon+Enthusiast;Open+Source+Contributor;AI+%26+Full-Stack+Developer" alt="Typing SVG" /></a>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/ShaikhWarsi?style=social)](https://github.com/ShaikhWarsi)
+  [![GitHub stars](https://img.shields.io/github/stars/ShaikhWarsi/All-My-Projects?style=social)](https://github.com/ShaikhWarsi/All-My-Projects)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shaikh-warsi)
+  ![Visitor Count](https://profile-counter.glitch.me/ShaikhWarsi/count.svg)
+  
   <p align="center">
-    <b>Applied AI Engineer & Full-Stack Architect</b>
+    <b>CS + AI/ML @ VIT Bhopal</b> • <b>Hackathon Enthusiast</b> • <b>Open Source Contributor</b>
   </p>
-  <p align="center">
-    <i>Designing autonomous systems and scalable intelligence with engineering precision.</i>
-  </p>
-  <br />
-  <p align="center">
-    <a href="https://linkedin.com/in/shaikh-warsi">LinkedIn</a> &nbsp;•&nbsp; 
-    <a href="https://github.com/ShaikhWarsi">GitHub</a> &nbsp;•&nbsp; 
-    <a href="mailto:your-email@example.com">Contact</a>
-  </p>
-  <br />
-  <br />
-  <hr width="100" />
-  <br />
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## Overview
+## 📖 Overview
 
-Computer Science student at VIT Bhopal specializing in AI/ML, autonomous agents, and cybersecurity. This repository functions as a curated hub for research-driven projects, high-performance web architectures, and intelligent automation systems.
-
----
-
-## Core Navigation
-
-[Featured Projects](#featured-projects) &nbsp;•&nbsp; 
-[AI & Machine Learning](#ai--machine-learning) &nbsp;•&nbsp; 
-[Web & Full-Stack](#web--full-stack) &nbsp;•&nbsp; 
-[Engineering Tools](#engineering-tools--utilities) &nbsp;•&nbsp; 
-[Research & Impact](#research--social-impact)
-
-<br />
+Welcome to my personal project hub! This repository is a curated collection of my work across various domains including **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Full-Stack Development**. Most of these projects were built during intensive hackathons, research sprints, or as part of my continuous learning journey.
 
 ---
 
-## Featured Projects
+## 🤝 Featured Team Projects
 
-#### [SmudgeAI](https://github.com/ShaikhWarsi/SmudgeAI)
-Windows-native autonomous agent for desktop automation using vision-based navigation and LLM reasoning.
-`Python` • `LLMs` • `Computer Vision` • `Autonomous Agents`
+*Explore high-impact collaborative work from various hackathons.*
 
-<br />
-
-#### [Layr](https://github.com/ShaikhWarsi/layr)
-VS Code engine generating architectural blueprints and project plans from natural language intent.
-`TypeScript` • `NLP` • `VS Code API` • `Architecture`
-
-<br />
-
-#### [Cropix](./Team%20Projects/readme.md)
-Agricultural intelligence platform for precision crop diagnostics and fertilizer optimization.
-`Python` • `Machine Learning` • `FastAPI` • `Analytics`
-
-<br />
-
-#### [FractureNet](./Solo%20Projects/readme.md)
-Neural imaging system for automated bone fracture detection in radiological assets using YOLOv8.
-`YOLOv8` • `FastAPI` • `Computer Vision` • `Healthcare AI`
-
-<br />
+| Project | Core Tech | Description |
+| :--- | :--- | :--- |
+| **[Cropix](./Team%20Projects/readme.md)** | `Python`, `ML` | AI-powered agriculture platform for crop analysis and disease detection. |
+| **[Resumer](./Team%20Projects/readme.md)** | `NLP`, `AI` | Intelligent resume optimization tool for job seekers. |
+| **[Agentic Honeypot](./Team%20Projects/readme.md)** | `Security`, `AI` | Autonomous honeypot system designed to lure and analyze attackers. |
+| **[Fish Pish](./Team%20Projects/readme.md)** | `Cybersecurity` | Real-time phishing detection system using machine learning. |
 
 ---
 
-## AI & Machine Learning
+## 🧠 Featured Solo Projects
 
-#### MediAssist
-AI-driven medical scribe for automated clinical documentation and speech-to-text transcription.
-`Python` • `Generative AI` • `Speech-to-Text`
+*My personal deep dives into specific technologies and problem-solving.*
 
-<br />
-
-#### SIEM Agent
-Cognitive security agent for intelligent information management and threat analysis.
-`Security AI` • `LangChain` • `Orchestration`
-
-<br />
-
-#### SOC Detector
-Security operations center log analysis engine for detecting behavioral anomalies via ML.
-`Cybersecurity` • `Anomaly Detection` • `Python`
-
-<br />
-
-#### CodeVert
-High-fidelity code translation engine utilizing Gemini API for syntax transformation across languages.
-`Gemini API` • `Python` • `React`
-
-<br />
+| Project | Category | Tech Stack |
+| :--- | :--- | :--- |
+| **[CodeDine](./Solo%20Projects/readme.md)** | Education | `Next.js`, `Algorithms`, `AI` |
+| **[FractureNet](./Solo%20Projects/readme.md)** | Healthcare | `YOLOv8`, `FastAPI`, `CV` |
+| **[DietMaxx](./Solo%20Projects/readme.md)** | HealthTech | `Next.js`, `Gemini AI` |
+| **[HackathonHunt](./Solo%20Projects/readme.md)** | DevTools | `FastAPI`, `Next.js`, `Scraping` |
+| **[CodeVert](./Solo%20Projects/readme.md)** | Automation | `Gemini API`, `Python`, `React` |
 
 ---
 
-## Web & Full-Stack
+## 🌍 Open Source Contributions
 
-#### Schedlyx
-Distributed scheduling platform for event coordination, hackathons, and enterprise workshops.
-`Next.js` • `PostgreSQL` • `Tailwind CSS`
+*Giving back to the community and contributing to large-scale projects.*
 
-<br />
-
-#### WorkLin
-Block-based documentation workspace engineered for high-performance note-taking and organization.
-`React` • `Vite` • `Tailwind CSS`
-
-<br />
-
-#### Nova-Bank
-High-performance banking interface and digital landing platform demonstration.
-`Next.js` • `Framer Motion` • `Interface Design`
-
-<br />
-
-#### Vayura
-GIS-integrated platform for oxygen demand estimation and ecological tree-plantation workflows.
-`React` • `Open-Source` • `GIS Analysis`
-
-<br />
+- 🚀 **[Academic Hub](https://github.com/ShaikhWarsi/academic-hub)**: Full-stack MERN dashboard for academic tracking.
+- 🐛 **[Bug Exorcist](https://github.com/ShaikhWarsi/bug-exorcist)**: Autonomous coding agent for automated bug fixing.
+- ✨ **[Creator Catalyst](https://github.com/ShaikhWarsi/Creator-Catalyst)**: AI agent for repurposing long-form video content.
 
 ---
 
-## Engineering Tools & Utilities
+## ⚡ Skills & Expertise
 
-#### Bug Exorcist
-Autonomous remediation agent designed for automated code analysis and bug resolution.
-`AI` • `Automation` • `Code Analysis`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,mysql,pytorch,tensorflow,react,nextjs,nodejs,fastapi,flask,mongodb,postgres,tailwind,git,github,vscode,linux" />
+</p>
 
-<br />
-
-#### Creator Catalyst
-AI transformation engine for repurposing long-form video assets into multi-channel content.
-`AI` • `Video Processing` • `Automation`
-
-<br />
-
-#### WhatsApp-CLI
-Resource-optimized terminal interface for secure messaging via WhatsApp protocols.
-`Node.js` • `CLI Architecture` • `Security`
-
-<br />
-
-#### PyVM Updater
-Cross-platform environment management utility for Python versioning and automation.
-`Python` • `CLI` • `DevOps`
-
-<br />
+- **Languages:** Python, JavaScript, TypeScript, C++, Java, SQL
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI/Gemini APIs
+- **Web:** Next.js, React, Node.js, FastAPI, Flask, MongoDB, PostgreSQL
+- **Security:** Penetration Testing, Network Security, AI-driven Threat Detection
 
 ---
 
-## Research & Social Impact
-
-#### GreenPass
-Environmental logistics system for sustainable tourism management in high-risk ecosystems.
-`Logistics` • `Sustainability` • `Real-time Systems`
-
-<br />
-
-#### EcoBridge
-Sustainability infrastructure focused on ecological connectivity and open-source collaboration.
-`Sustainability` • `Open-Source` • `Community`
-
-<br />
-
-#### Event-OD
-Enterprise attendance tracking and event management system for large-scale organizations.
-`Utility` • `Web Engineering` • `Management`
-
-<br />
-
----
-
-## Detailed Repositories
-
-For granular technical details and implementation specifics, explore the categorized directories:
-
-[Solo Engineering](./Solo%20Projects/readme.md) &nbsp;•&nbsp; 
-[Collaborative Ventures](./Team%20Projects/readme.md) &nbsp;•&nbsp; 
-[Community Contributions](./Open%20Source%20Contributions/readme.md)
-
-<br />
-
----
+## 📊 Quick Stats
 
 <div align="center">
-  <p align="center">
-    <i>Engineered with intentionality by <a href="https://github.com/ShaikhWarsi">Shaikh Warsi</a></i>
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ShaikhWarsi&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhWarsi&show_icons=true&theme=tokyonight&hide_border=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhWarsi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhWarsi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikhWarsi&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/ShaikhWarsi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shaikh-warsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<p align="center">
+  <i>"Code is not just logic; it's a way to solve real-world problems."</i>
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+*Pushing the boundaries of automation and intelligence.*
+
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| **SmudgeAI** | Windows-native autonomous AI agent for desktop automation. | `Python`, `LLMs`, `Vision-AI` |
+| **Layr** | VS Code extension generating project plans from natural language. | `TypeScript`, `NLP`, `VS Code API` |
+| **MediAssist** | AI-powered medical scribe for healthcare automation. | `Python`, `Speech-to-Text`, `AI` |
+| **SIEM Agent** | Conversational agent for security information management. | `Security`, `AI`, `LangChain` |
+| **SOC Detector** | Log analysis tool to detect security anomalies. | `Cybersecurity`, `ML`, `Python` |
+
+---
+
+## 💻 Web & Full-Stack
+
+*Scalable, modern, and user-centric web applications.*
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Schedlyx** | Scheduling platform for meetings, hackathons, and workshops. | `Next.js`, `PostgreSQL`, `Tailwind` |
+| **WorkLin** | Notion-inspired notes workspace with block editing. | `React`, `Vite`, `Tailwind` |
+| **Nova-Bank** | Fictional high-end banking landing page and UI. | `Next.js`, `Framer Motion` |
+| **Vayura** | Oxygen demand estimator and donation workflow platform. | `React`, `Open-Source`, `GIS` |
+| **Academic Hub** | Full-stack MERN dashboard for academic goal tracking. | `MongoDB`, `Express`, `React`, `Node` |
+
+---
+
+## 🛠️ Developer Tools & Utilities
+
+*Tools built to streamline the developer experience.*
+
+| Project | Description | Language |
+| :--- | :--- | :--- |
+| **WhatsApp-CLI** | Resource-efficient CLI for using WhatsApp in terminal. | `Node.js`, `CLI` |
+| **PyVM Updater** | Cross-platform Python version checker and updater. | `Python`, `CLI` |
+| **Bug Exorcist** | Autonomous coding agent that fixes broken code. | `AI`, `Automation`, `Python` |
+| **Creator Catalyst**| AI content repurpose agent for long-form videos. | `AI`, `Video-Processing` |
+| **Toolsuite** | A collection of fast, simple, and free developer tools. | `Web`, `Utilities` |
+
+---
+
+## 🌍 Social Impact & Others
+
+| Project | Description | Category |
+| :--- | :--- | :--- |
+| **GreenPass** | Tourist flow management for fragile ecosystems. | `Social Impact` |
+| **EcoBridge** | Sustainability and environmental connectivity. | `Open-Source` |
+| **Event-OD** | Attendance tracking and event management system. | `Utility` |
+| **Blockchain Site** | Official platform for the Blockchain Club. | `Web` |
+
+---
+
+<p align="center">
+  <br />
+  <a href="./Solo%20Projects/readme.md"><b>🧠 Solo Projects</b></a> • 
+  <a href="./Team%20Projects/readme.md"><b>🤝 Team Projects</b></a> • 
+  <a href="./Open%20Source%20Contributions/readme.md"><b>🌍 Open Source</b></a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <p><i>Crafted with ❤️ by <a href="https://github.com/ShaikhWarsi">Shaikh Warsi</a></i></p>
+</div>
+
