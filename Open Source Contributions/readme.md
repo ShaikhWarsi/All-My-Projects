@@ -1,7 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  # 🌍 Open Source Contributions
-  <p><i>Contributing to the community and building better software together.</i></p>
+  <h1>🌍 Open Source Impact</h1>
+  <p><i>Building in public and contributing to the global developer community.</i></p>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,node,flask,python,js,html,css,git,github" />
+  </p>
+  
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
@@ -9,18 +14,64 @@
 
 ## 🚀 Projects Contributed To
 
-| Project | Description | Tech | Repository |
-| :--- | :--- | :--- | :--- |
-| **Academic Hub** | Full-stack MERN academic dashboard. | `MERN` | [🔗 Repo](https://github.com/ShaikhWarsi/academic-hub) |
-| **Bug Exorcist** | Autonomous coding agent for bug fixing. | `AI` | [🔗 Repo](https://github.com/ShaikhWarsi/bug-exorcist) |
-| **Creator Catalyst** | AI Content Repurpose Agent. | `Video-AI` | [🔗 Repo](https://github.com/ShaikhWarsi/Creator-Catalyst) |
-| **Blockchain Club** | Official site for the Blockchain Club. | `Web` | [🔗 Repo](https://github.com/ShaikhWarsi/Blockchain-Club-Official-Site) |
-| **EXPENCE TRACKER** | Full-stack expense tracking app. | `Flask` | [🔗 Repo](https://github.com/ShaikhWarsi/EXPENCE_TRACKER) |
-| **EcoBridge** | Environmental sustainability platform. | `Impact` | [🔗 Repo](https://github.com/ShaikhWarsi/EcoBridge) |
+*A selection of projects where I've made significant contributions.*
+
+<table align="center">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">My Contribution</th>
+    <th align="left">Tech</th>
+    <th align="left">Link</th>
+  </tr>
+  <tr>
+    <td><b>Academic Hub</b></td>
+    <td>Full-stack MERN dashboard for tracking goals.</td>
+    <td><img src="https://img.shields.io/badge/MERN-blue?style=flat-square" /></td>
+    <td><a href="https://github.com/ShaikhWarsi/academic-hub">🔗 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Bug Exorcist</b></td>
+    <td>Autonomous coding agent for automated bug fixing.</td>
+    <td><img src="https://img.shields.io/badge/AI-orange?style=flat-square" /></td>
+    <td><a href="https://github.com/ShaikhWarsi/bug-exorcist">🔗 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Creator Catalyst</b></td>
+    <td>AI Content Repurpose Agent for video processing.</td>
+    <td><img src="https://img.shields.io/badge/Video--AI-red?style=flat-square" /></td>
+    <td><a href="https://github.com/ShaikhWarsi/Creator-Catalyst">🔗 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Blockchain Club</b></td>
+    <td>Official platform for community engagement.</td>
+    <td><img src="https://img.shields.io/badge/Web-green?style=flat-square" /></td>
+    <td><a href="https://github.com/ShaikhWarsi/Blockchain-Club-Official-Site">🔗 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>Expense Tracker</b></td>
+    <td>Full-stack financial tracking application.</td>
+    <td><img src="https://img.shields.io/badge/Flask-black?style=flat-square" /></td>
+    <td><a href="https://github.com/ShaikhWarsi/EXPENCE_TRACKER">🔗 Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>EcoBridge</b></td>
+    <td>Sustainability and environmental platform.</td>
+    <td><img src="https://img.shields.io/badge/Impact-purple?style=flat-square" /></td>
+    <td><a href="https://github.com/ShaikhWarsi/EcoBridge">🔗 Repo</a></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Contribution Highlights
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/🚀-Bug_Fixing-FFD700?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/✨-Feature_Dev-4169E1?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎨-UI_UX-FF69B4?style=for-the-badge" />
+  </p>
+</div>
 
 - **🚀 Bug Fixing:** Identified and resolved critical issues in autonomous agents and web dashboards.
 - **✨ Feature Development:** Implemented new modules for AI content repurposing and academic tracking.
