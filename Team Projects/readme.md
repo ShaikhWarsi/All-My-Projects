@@ -154,7 +154,7 @@ Comprehensive cybersecurity solution combining **real-time web dashboard** with 
 - **Cloud:** Vercel Edge Network for high-performance global delivery
 
 **Recognition:** Best UI/UX Award — Hackathon Winner  
-**Links:** [Live Demo](https://rangmanchindia.vercel.app/)
+**Links:** [Live Demo](https://rangmanchindia.vercel.app/) | [GitHub](https://github.com/ShaikhWarsi/RangManch)
 
 </td>
 </tr>
