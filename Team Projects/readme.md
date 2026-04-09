@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h1>🤝 Collaborative Ventures</h1>
+  <h1>COLLABORATIVE VENTURES</h1>
   <p><i>High-impact projects built in the heat of hackathons and research sprints.</i></p>
   
   <p align="center">
@@ -12,133 +12,199 @@
 
 ---
 
-## 🏆 Featured Collaborations
+## Featured Collaborations
 
 *Showcasing teamwork, rapid prototyping, and real-world impact.*
 
 ---
 
-### 🌾 Cropix
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### CROPIX
 **AI-Powered Precision Agriculture Platform**
 
-Cropix is an end-to-end agricultural intelligence platform that leverages **5 specialized machine learning models** to deliver data-driven insights for farmers. The system combines deep learning and classical ML to address critical agricultural challenges—from crop selection to disease diagnosis.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 
-**🧠 ML Architecture:**
-- **Disease Detection (CNN)** — TensorFlow/Keras-based computer vision model analyzing crop imagery to identify diseases with high accuracy
-- **Market Forecasting (LSTM)** — Time-series neural network predicting agricultural commodity prices to optimize selling timing
-- **Crop Recommendation (KNN/Random Forest)** — Multi-factor ML engine considering soil composition (N-P-K), pH, humidity, and rainfall
-- **Fertilizer Optimization (XGBoost)** — Gradient boosting model prescribing precise nutrient formulations
-- **Weather Prediction** — Historical data analysis for rainfall and seasonal forecasting
+Cropix is an end-to-end agricultural intelligence platform leveraging **5 specialized machine learning models** to deliver data-driven insights for farmers. Combines deep learning and classical ML to address critical agricultural challenges—from crop selection to disease diagnosis.
 
-**⚙️ Tech Stack:**
+| ML Architecture | Description |
+|----------------|-------------|
+| **Disease Detection (CNN)** | TensorFlow/Keras computer vision analyzing crop imagery for disease identification |
+| **Market Forecasting (LSTM)** | Time-series neural network predicting commodity prices for optimal selling timing |
+| **Crop Recommendation (KNN/RF)** | Multi-factor ML using soil N-P-K, pH, humidity, rainfall data |
+| **Fertilizer Optimization (XGBoost)** | Gradient boosting prescribing precise nutrient formulations |
+| **Weather Prediction** | Historical data analysis for rainfall and seasonal forecasting |
+
+**Tech Stack:**
 - **Frontend:** Next.js 15 (App Router), React, TypeScript, Tailwind CSS, Framer Motion, Radix UI, Recharts
 - **Backend:** FastAPI, Uvicorn ASGI server, Pydantic validation
-- **ML/AI:** TensorFlow, Keras, scikit-learn, XGBoost, NumPy, Pandas, Joblib serialization
-- **Deployment:** Containerized microservices architecture
+- **ML/AI:** TensorFlow, Keras, scikit-learn, XGBoost, NumPy, Pandas, Joblib
 
-**🔗 Links:** [Live Demo](https://cropixbitlyfe.vercel.app/) | [GitHub](https://github.com/ShaikhWarsi/Cropix)
+**Links:** [Live Demo](https://cropixbitlyfe.vercel.app/) | [GitHub](https://github.com/ShaikhWarsi/Cropix)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🍯 Agentic Honeypot
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### AGENTIC HONEYPOT
 **Autonomous AI Counter-Intelligence System**
 
-A **Top 15 National Finalist** at the HCL-Guvi Hackathon, this backend-centric cybersecurity platform deploys AI agents that convincingly simulate vulnerable victims to engage scammers in extended conversations. The system autonomously extracts critical intelligence while wasting attacker resources.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
-**🎯 Core Capabilities:**
-- **Deceptive Persona Engine** — LLM-powered agent adopting convincing victim personas to lure scammers
-- **Intelligence Extraction** — Automated harvesting of scammer operational details, payment methods, and infrastructure
-- **Persistent Engagement** — Multi-turn conversation management to maximize time-wasting and data collection
-- **Evidence Compilation** — Structured report generation for law enforcement with complete interaction logs
+**Top 15 National Finalist** at HCL-Guvi Hackathon. Backend-centric cybersecurity platform deploying AI agents that convincingly simulate vulnerable victims to engage scammers. System autonomously extracts critical intelligence while wasting attacker resources.
 
-**⚙️ Tech Stack:**
+| Capability | Description |
+|------------|-------------|
+| **Deceptive Persona Engine** | LLM-powered agent adopting convincing victim personas to lure scammers |
+| **Intelligence Extraction** | Automated harvesting of scammer operational details, payment methods, infrastructure |
+| **Persistent Engagement** | Multi-turn conversation management for time-wasting and data collection |
+| **Evidence Compilation** | Structured report generation for law enforcement with interaction logs |
+
+**Tech Stack:**
 - **Backend:** Python, AsyncIO, FastAPI
-- **AI/LLM:** Groq SDK (Llama 3.3-70B), LangGraph for state orchestration
-- **Data Layer:** PostgreSQL for conversation persistence, structured schema extraction
-- **Deployment:** Hugging Face Spaces with Docker containerization
+- **AI/LLM:** Groq SDK (Llama 3.3-70B), LangGraph state orchestration
+- **Data:** PostgreSQL conversation persistence, structured schema extraction
+- **Deployment:** Hugging Face Spaces, Docker containerization
 
-**🏆 Recognition:** Top 15 National Finalist — HCL-Guvi Hackathon
+**Recognition:** Top 15 National Finalist — HCL-Guvi Hackathon  
+**Links:** [Hugging Face Space](https://huggingface.co/spaces/Rachit-Tw/Agentic-Space/tree/main)
 
-**🔗 Links:** [Hugging Face Space](https://huggingface.co/spaces/Rachit-Tw/Agentic-Space/tree/main)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎣 Fish Pish
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### FISH PISH
 **Multi-Layer Phishing Detection Ecosystem**
 
-A comprehensive cybersecurity solution combining a **real-time web dashboard** with a **Chrome browser extension** for ubiquitous link protection. The system employs a multi-stage weighted scoring engine that transitions from rapid heuristic checks to deep AI forensic analysis.
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
 
-**🛡️ Defense Architecture:**
-- **Chrome Extension (MV3)** — Shadow DOM-injected hover protection providing instant risk triage (🔴 Danger / 🟡 Suspicious / 🟢 Safe)
-- **Multi-Stage Analysis Engine:**
-  - Tier 1: Google Safe Browsing API + SSL certificate forensics
-  - Tier 2: Groq LLM (Llama 3.3-70B) contextual URL anatomy analysis
-  - Weighted scoring formula aggregating technical and AI signals
-- **In-Memory Caching** — Sub-100ms response for previously analyzed URLs
-- **Educational Modules** — Interactive learning hub with phishing awareness training
+Comprehensive cybersecurity solution combining **real-time web dashboard** with **Chrome browser extension** for ubiquitous link protection. Multi-stage weighted scoring engine transitioning from rapid heuristic checks to deep AI forensic analysis.
 
-**⚙️ Tech Stack:**
+| Defense Layer | Description |
+|---------------|-------------|
+| **Chrome Extension (MV3)** | Shadow DOM-injected hover protection with instant risk triage |
+| **Tier 1: Heuristic** | Google Safe Browsing API + SSL certificate forensics |
+| **Tier 2: AI Forensics** | Groq LLM (Llama 3.3-70B) contextual URL anatomy analysis |
+| **Caching Layer** | Sub-100ms response for previously analyzed URLs |
+| **Education Hub** | Interactive learning with phishing awareness training |
+
+**Tech Stack:**
 - **Frontend:** Next.js 15, Tailwind CSS, Framer Motion, Lucide React
 - **Backend:** Node.js, Express, TypeScript
 - **AI/Security:** Groq SDK, Google Safe Browsing API, Custom SSL forensic engine
 - **Extension:** Vite, TypeScript, Manifest V3, Shadow DOM injection
 
-**🔗 Links:** [GitHub](https://github.com/Rachit-Tiwari-7/Fish-Pish)
+**Links:** [GitHub](https://github.com/Rachit-Tiwari-7/Fish-Pish)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎨 RangManch
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### RANGMANCH
 **"Legacy-as-a-Service" Marketplace for Rural Artisans**
 
-**Best UI/UX Award Winner** — A next-generation decentralized marketplace platform engineered to bridge the gap between Indian rural artisans and global consumers. Unlike conventional e-commerce, RangManch preserves cultural context while eliminating exploitative middlemen.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Best_UI/UX-FF6B6B?style=flat-square" />
 
-**🎯 Problem-Solution Fit:**
-- **Eliminates Middlemen** — Direct artisan-to-consumer model preserving up to 70% margins lost to traditional platforms
-- **Zero Technical Barrier** — GST-free onboarding, no complex inventory management
-- **Cultural Context Preservation** — Rich storytelling alongside products, showcasing artisan heritage and craft lineage
-- **Direct Negotiation** — Built-in communication channels for custom orders and bulk pricing
+**Best UI/UX Award Winner.** Next-generation decentralized marketplace bridging Indian rural artisans with global consumers. Preserves cultural context while eliminating exploitative middlemen.
 
-**⚙️ Tech Stack:**
+| Problem Solved | Solution |
+|----------------|----------|
+| **Middlemen Exploitation** | Direct artisan-to-consumer model preserving up to 70% margins |
+| **Technical Barriers** | GST-free onboarding, zero complex inventory management |
+| **Cultural Context Loss** | Rich storytelling showcasing artisan heritage and craft lineage |
+| **Communication Gap** | Built-in channels for custom orders and bulk pricing |
+
+**Tech Stack:**
 - **Frontend:** Next.js 15, React, TypeScript, Tailwind CSS
-- **Animation:** Framer Motion for cinematic, immersive user experience
+- **Animation:** Framer Motion for cinematic, immersive UX
 - **UI Components:** Radix UI primitives with custom design system
-- **Cloud Infrastructure:** Vercel Edge Network for high-performance global delivery
+- **Cloud:** Vercel Edge Network for high-performance global delivery
 
-**🏆 Recognition:** Best UI/UX Award — Hackathon Winner
+**Recognition:** Best UI/UX Award — Hackathon Winner  
+**Links:** [Live Demo](https://rangmanchindia.vercel.app/)
 
-**🔗 Links:** [Live Demo](https://rangmanchindia.vercel.app/)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎯 AscendPrep (InterviewLab)
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ASCENDPREP (InterviewLab)
 **Next-Gen AI Technical Interview Platform**
 
-**1st Prize Hackathon Winner** — An immersive interview preparation platform featuring a **live voice-enabled AI interviewer** that analyzes not just answers, but posture, confidence, communication patterns, and problem-solving approach. The system provides holistic interview readiness assessment.
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LiveKit-FF0050?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/1st_Prize-FFD700?style=flat-square" />
 
-**🎙️ Core Features:**
-- **Live Voice AI Interviews** — WebRTC-powered low-latency (<2s) voice interaction with GPT-4o-mini
-- **Multimodal Analysis** — Computer vision assessment of posture, eye contact, and confidence metrics
-- **Resume-Aware Interrogation** — Dynamic question generation based on user's specific background and claimed expertise
-- **DSA Practice Arena** — Company-tagged problems with Monaco Code Editor integration
-- **ATS Resume Engine** — Resume builder with real-time ATS scoring and optimization suggestions
-- **Docker Sandboxing** — Secure code execution environment for technical assessments
+**1st Prize Hackathon Winner.** Immersive interview preparation platform with **live voice-enabled AI interviewer** analyzing posture, confidence, communication patterns, and problem-solving approach.
 
-**⚙️ Tech Stack:**
-- **Frontend:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Zustand state management, TanStack Query, Monaco Editor
+| Feature | Technology |
+|---------|------------|
+| **Live Voice AI Interviews** | WebRTC-powered <2s latency voice with GPT-4o-mini |
+| **Multimodal Analysis** | Computer vision for posture, eye contact, confidence metrics |
+| **Resume-Aware Interrogation** | Dynamic questions based on user's background and expertise |
+| **DSA Practice Arena** | Company-tagged problems with Monaco Code Editor |
+| **ATS Resume Engine** | Real-time ATS scoring and optimization suggestions |
+| **Secure Execution** | Docker sandboxing for code assessments |
+
+**Tech Stack:**
+- **Frontend:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Zustand, TanStack Query, Monaco Editor
 - **Backend:** FastAPI, AsyncIO, Pydantic, Instructor (structured LLM outputs)
-- **Voice/Video:** LiveKit SFU Server, WebRTC, OpenAI Whisper (STT), ElevenLabs TTS
-- **AI Orchestration:** LangGraph state machines, GPT-4o-mini
-- **Infrastructure:** Docker sandboxing, Redis caching, PostgreSQL persistence
+- **Voice/Video:** LiveKit SFU Server, WebRTC, OpenAI Whisper STT, ElevenLabs TTS
+- **AI:** LangGraph state machines, GPT-4o-mini
+- **Infrastructure:** Docker, Redis, PostgreSQL
 
-**🏆 Recognition:** 1st Prize — Hackathon Winner
+**Recognition:** 1st Prize — Hackathon Winner  
+**Links:** [Live Demo](https://ascendPrep.vercel.app) | [GitHub](https://github.com/ShaikhWarsi/AscendPrep)
 
-**🔗 Links:** [Live Demo](https://ascendPrep.vercel.app) | [GitHub](https://github.com/ShaikhWarsi/AscendPrep)
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
   <br />
-  <a href="../README.md">🏠 Back to Hub</a>
+  <a href="../README.md">[ Back to Hub ]</a>
   <br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
