@@ -202,6 +202,42 @@ Comprehensive cybersecurity solution combining **real-time web dashboard** with 
 
 ---
 
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### TEACHCOPILOT
+**AI-Powered Teaching Assistant Platform**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Work_In_Progress-F59E0B?style=flat-square" />
+
+Intelligent teaching assistant platform leveraging AI to support educators with automated content generation, student progress tracking, and personalized learning path recommendations. Currently in active development.
+
+| Feature | Implementation |
+|---------|----------------|
+| **AI Content Generation** | GPT-powered lesson plan and quiz generation |
+| **Student Analytics** | Performance tracking with visual progress dashboards |
+| **Personalized Learning** | Adaptive content recommendations per student |
+| **Assignment Management** | Automated grading and feedback system |
+
+**Tech Stack:**
+- **Frontend:** Next.js 15, React, TypeScript, Tailwind CSS
+- **AI:** OpenAI GPT-4, custom educational prompt engineering
+- **Database:** PostgreSQL for user data and content storage
+- **State Management:** Zustand for client-side state
+
+**Status:** Work In Progress  
+**Links:** [Live Demo](https://tecopilot.vercel.app/) | [GitHub](https://github.com/ShaikhWarsi/TeachCoPilot)
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
   <br />
   <a href="../README.md">[ Back to Hub ]</a>
