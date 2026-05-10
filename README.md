@@ -156,7 +156,6 @@ Welcome to my personal project hub. This repository is a curated collection of w
   <a href="./Team%20Projects/readme.md"><b>Team Projects</b></a> • 
   <a href="./Open%20Source%20Contributions/readme.md"><b>Open Source</b></a>
 </p>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <p><i>Crafted by <a href="https://github.com/ShaikhWarsi">Shaikh Warsi</a></i></p>
